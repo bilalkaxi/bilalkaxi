@@ -28,10 +28,10 @@
 ```js
 const bilal = {
   role: "Software Engineer",
-  location: "📍 [your city, country]",
-  currentlyBuilding: "🔭 [your project]",
-  currentlyLearning: "🌱 [your tech]",
-  funFact: "⚡ [something fun]",
+  location: "📍 Pakistan",
+  currentlyBuilding: "🔭 Campus Forum",
+  currentlyLearning: "🌱 AI/ML",
+  funFact: "⚡ MLSA",
   lookingFor: "🤝 Collaborations & cool opportunities",
 };
 ```
