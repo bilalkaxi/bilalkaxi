@@ -30,54 +30,98 @@ I build practical, scalable software and enjoy turning ideas into polished digit
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Backend, Databases & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## Featured Work
+## Featured Projects
 
-### Campus Forum
+### Library Management System
 
-A community-focused platform designed to help students connect, communicate, and share resources. This is an active project, so more details will be added as development progresses.
+A full-stack library management platform designed to streamline book administration and improve access to library resources.
+
+- Implemented user authentication and role-based authorization for administrative workflows.
+- Designed a relational MySQL database with foreign-key constraints and validation rules to preserve data integrity.
+- Added PDF upload and download functionality with a user-focused download history experience.
+- **Stack:** Next.js, React, Node.js, Express.js, MySQL
+
+### Essential Quranic Arabic
+
+A responsive educational web platform that helps learners study Quranic Arabic through structured and accessible lessons.
+
+- Developed and deployed a responsive learning experience for mobile and desktop users.
+- Organized educational content into clear lessons to support consistent self-paced learning.
+- Focused on clean navigation, accessibility, and a simple learner-friendly interface.
+- **Stack:** Next.js, Vercel
+
+### Additional Projects
+
+- **Weather App** — Displays weather information using a public weather API.
+- **To-Do List** — Provides a focused interface for organizing and tracking tasks.
+- **Quiz App** — Delivers interactive quizzes with a simple, responsive user experience.
+- **Password Generator** — Generates secure, customizable passwords through a lightweight web interface.
+- **Notes App** — Supports creating and organizing notes with a clean productivity-focused workflow.
 
 > Explore my repositories for current projects, experiments, and open-source contributions.
 
+## Experience
+
+### MERN Stack Fellow — Buildables
+
+**Remote · August 2025 – November 2025**
+
+- Built web applications using MongoDB, Express.js, React, and Node.js through guided, project-based development.
+- Practiced designing REST APIs and integrating backend services with React frontends.
+- Strengthened full-stack development, debugging, and collaborative software engineering practices.
+
+### Quranic Arabic Tutor
+
+**Islamabad · February 2025 – Present**
+
+- Founded and lead a local learning group for students studying Quranic Arabic.
+- Recruit learners, organize regular sessions, and adapt lessons to different learning levels.
+- Explain concepts clearly while creating a supportive and structured learning environment.
+
+### Frontend Fellow — ByteWise
+
+**Remote · March 2023**
+
+- Built small web projects using HTML and CSS through guided practical tasks.
+- Strengthened frontend fundamentals, responsive layout techniques, and attention to user experience.
+
 ## Certifications & Badges
+
+### Responsive Web Design — freeCodeCamp
+
+[View certification](https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design)
 
 ### Credly Badge
 
 [![View Credly Badge](https://img.shields.io/badge/Credly-View%20Verified%20Badge-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url)
 
 You can view my verified Credly badge and certification details on [Credly](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url).
-
-> Recommendation: add future certifications here with the certification name, issuing organization, date earned, and verification link. The public Credly badge link is used instead of the private edit URL.
 
 ## GitHub Activity
 
