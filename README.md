@@ -12,6 +12,7 @@ I build practical, scalable software and enjoy turning ideas into polished digit
 [![X](https://img.shields.io/badge/X-bilalkazijtu-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bilalkazijtu)
 [![YouTube](https://img.shields.io/badge/YouTube-MuhammadBilal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MuhammadBilal-fu4ip)
 [![Instagram](https://img.shields.io/badge/Instagram-bilalibnjamil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bilalibnjamil/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923099004292)
 
 </div>
 
@@ -22,8 +23,7 @@ I build practical, scalable software and enjoy turning ideas into polished digit
 - 🌍 Based in **Pakistan**
 - 🔭 Building **Campus Forum**
 - 🌱 Learning and experimenting with **AI/ML**
-- 🧠 Interested in software engineering, developer tools, and product development
-- 🤝 Open to collaboration, freelance opportunities, and interesting technical challenges
+- 🤝 Open to collaboration, freelance opportunities, and meaningful technical challenges
 - ⚡ Fun fact: **MLSA**
 
 ## Tech Stack
@@ -51,77 +51,31 @@ I build practical, scalable software and enjoy turning ideas into polished digit
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## Featured Projects
+## Selected Projects
 
-### Library Management System
-
-A full-stack library management platform designed to streamline book administration and improve access to library resources.
-
-- Implemented user authentication and role-based authorization for administrative workflows.
-- Designed a relational MySQL database with foreign-key constraints and validation rules to preserve data integrity.
-- Added PDF upload and download functionality with a user-focused download history experience.
-- **Stack:** Next.js, React, Node.js, Express.js, MySQL
-
-### Essential Quranic Arabic
-
-A responsive educational web platform that helps learners study Quranic Arabic through structured and accessible lessons.
-
-- Developed and deployed a responsive learning experience for mobile and desktop users.
-- Organized educational content into clear lessons to support consistent self-paced learning.
-- Focused on clean navigation, accessibility, and a simple learner-friendly interface.
-- **Stack:** Next.js, Vercel
-
-### Additional Projects
-
-- **Weather App** — Displays weather information using a public weather API.
-- **To-Do List** — Provides a focused interface for organizing and tracking tasks.
-- **Quiz App** — Delivers interactive quizzes with a simple, responsive user experience.
-- **Password Generator** — Generates secure, customizable passwords through a lightweight web interface.
-- **Notes App** — Supports creating and organizing notes with a clean productivity-focused workflow.
-
-> Explore my repositories for current projects, experiments, and open-source contributions.
+- **[Library Management System](https://github.com/bilalkaxi)** — Full-stack platform with authentication, role-based administration, MySQL data management, and PDF file handling. *(Next.js, React, Node.js, Express.js, MySQL)*
+- **[Essential Quranic Arabic](https://github.com/bilalkaxi)** — Responsive learning platform with structured lessons and accessible navigation. *(Next.js, Vercel)*
+- **Other projects:** Weather App, To-Do List, Quiz App, Password Generator, and Notes App.
 
 ## Experience
 
-### MERN Stack Fellow — Buildables
+- **MERN Stack Fellow — Buildables** · Remote · Aug 2025 – Nov 2025
+- **Quranic Arabic Tutor** · Islamabad · Feb 2025 – Present
+- **Frontend Fellow — ByteWise** · Remote · Mar 2023
 
-**Remote · August 2025 – November 2025**
+## Education
 
-- Built web applications using MongoDB, Express.js, React, and Node.js through guided, project-based development.
-- Practiced designing REST APIs and integrating backend services with React frontends.
-- Strengthened full-stack development, debugging, and collaborative software engineering practices.
-
-### Quranic Arabic Tutor
-
-**Islamabad · February 2025 – Present**
-
-- Founded and lead a local learning group for students studying Quranic Arabic.
-- Recruit learners, organize regular sessions, and adapt lessons to different learning levels.
-- Explain concepts clearly while creating a supportive and structured learning environment.
-
-### Frontend Fellow — ByteWise
-
-**Remote · March 2023**
-
-- Built small web projects using HTML and CSS through guided practical tasks.
-- Strengthened frontend fundamentals, responsive layout techniques, and attention to user experience.
+**BS Computer Science** — SZABIST University, Islamabad  
+CGPA: **3.4 / 4.0** · Feb 2025 – Present
 
 ## Certifications & Badges
 
-### Responsive Web Design — freeCodeCamp
-
-[View certification](https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design)
-
-### Credly Badge
-
-[![View Credly Badge](https://img.shields.io/badge/Credly-View%20Verified%20Badge-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url)
-
-You can view my verified Credly badge and certification details on [Credly](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url).
+- **Responsive Web Design** — [freeCodeCamp](https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design)
+- **Credly:** [View my verified badge](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url)
 
 ## GitHub Activity
 
@@ -138,14 +92,12 @@ You can view my verified Credly badge and certification details on [Credly](http
 
 ## Let's Connect
 
-I'm always happy to discuss software engineering, open-source projects, AI/ML, and new ideas.
-
-- 💼 LinkedIn: [ibn-jamil](https://www.linkedin.com/in/ibn-jamil/)
-- 📧 Email: [bilaljamiljtu@gmail.com](mailto:bilaljamiljtu@gmail.com)
-- 𝕏 X: [@bilalkazijtu](https://x.com/bilalkazijtu)
-- ▶️ YouTube: [Muhammad Bilal](https://www.youtube.com/@MuhammadBilal-fu4ip)
-- 📸 Instagram: [@bilalibnjamil](https://www.instagram.com/bilalibnjamil/)
-- 🏅 Credly: [View my verified badge](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ibn-jamil/)
+- 📧 [Email](mailto:bilaljamiljtu@gmail.com)
+- 𝕏 [X](https://x.com/bilalkazijtu)
+- ▶️ [YouTube](https://www.youtube.com/@MuhammadBilal-fu4ip)
+- 📸 [Instagram](https://www.instagram.com/bilalibnjamil/)
+- 💬 [WhatsApp](https://wa.me/923099004292)
 
 <div align="center">
 
