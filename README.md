@@ -77,30 +77,6 @@ CGPA: **3.4 / 4.0** · Feb 2025 – Present
 - **Responsive Web Design** — [freeCodeCamp](https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design)
 - **Credly:** [View my verified badge](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url)
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bilalkaxi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Bilal's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkaxi&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Bilal's most used languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=bilalkaxi&hide_border=true&theme=transparent" alt="Bilal's GitHub contribution streak" />
-
-</div>
-
-## Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ibn-jamil/)
-- 📧 [Email](mailto:bilaljamiljtu@gmail.com)
-- 𝕏 [X](https://x.com/bilalkazijtu)
-- ▶️ [YouTube](https://www.youtube.com/@MuhammadBilal-fu4ip)
-- 📸 [Instagram](https://www.instagram.com/bilalibnjamil/)
-- 💬 [WhatsApp](https://wa.me/923099004292)
-
-<div align="center">
-
 ### Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Profile footer" width="100%" />
