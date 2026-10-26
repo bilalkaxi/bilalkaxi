@@ -7,7 +7,11 @@
 I build practical, scalable software and enjoy turning ideas into polished digital experiences. I'm currently working on **Campus Forum**, exploring **AI/ML**, and looking for opportunities to collaborate on meaningful projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-bilalkaxi-181717?style=for-the-badge&logo=github)](https://github.com/bilalkaxi)
-[![Open to collaboration](https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/bilalkaxi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ibn--jamil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibn-jamil/)
+[![Email](https://img.shields.io/badge/Email-bilaljamiljtu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilaljamiljtu@gmail.com)
+[![X](https://img.shields.io/badge/X-bilalkazijtu-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bilalkazijtu)
+[![YouTube](https://img.shields.io/badge/YouTube-MuhammadBilal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MuhammadBilal-fu4ip)
+[![Instagram](https://img.shields.io/badge/Instagram-bilalibnjamil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bilalibnjamil/)
 
 </div>
 
@@ -65,6 +69,16 @@ A community-focused platform designed to help students connect, communicate, and
 
 > Explore my repositories for current projects, experiments, and open-source contributions.
 
+## Certifications & Badges
+
+### Credly Badge
+
+[![View Credly Badge](https://img.shields.io/badge/Credly-View%20Verified%20Badge-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url)
+
+You can view my verified Credly badge and certification details on [Credly](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url).
+
+> Recommendation: add future certifications here with the certification name, issuing organization, date earned, and verification link. The public Credly badge link is used instead of the private edit URL.
+
 ## GitHub Activity
 
 <div align="center">
@@ -82,8 +96,12 @@ A community-focused platform designed to help students connect, communicate, and
 
 I'm always happy to discuss software engineering, open-source projects, AI/ML, and new ideas.
 
-- GitHub: [@bilalkaxi](https://github.com/bilalkaxi)
-- Browse my repositories: [github.com/bilalkaxi?tab=repositories](https://github.com/bilalkaxi?tab=repositories)
+- 💼 LinkedIn: [ibn-jamil](https://www.linkedin.com/in/ibn-jamil/)
+- 📧 Email: [bilaljamiljtu@gmail.com](mailto:bilaljamiljtu@gmail.com)
+- 𝕏 X: [@bilalkazijtu](https://x.com/bilalkazijtu)
+- ▶️ YouTube: [Muhammad Bilal](https://www.youtube.com/@MuhammadBilal-fu4ip)
+- 📸 Instagram: [@bilalibnjamil](https://www.instagram.com/bilalibnjamil/)
+- 🏅 Credly: [View my verified badge](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url)
 
 <div align="center">
 
