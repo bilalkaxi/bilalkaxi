@@ -54,12 +54,6 @@ I build practical, scalable software and enjoy turning ideas into polished digit
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## Selected Projects
-
-- **[Library Management System](https://github.com/bilalkaxi)** — Full-stack platform with authentication, role-based administration, MySQL data management, and PDF file handling. *(Next.js, React, Node.js, Express.js, MySQL)*
-- **[Essential Quranic Arabic](https://github.com/bilalkaxi)** — Responsive learning platform with structured lessons and accessible navigation. *(Next.js, Vercel)*
-- **Other projects:** Weather App, To-Do List, Quiz App, Password Generator, and Notes App.
-
 ## Education
 
 **BS Computer Science** — SZABIST University, Islamabad  
