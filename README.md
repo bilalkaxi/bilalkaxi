@@ -2,9 +2,9 @@
 
 # Hi, I'm Bilal 👋
 
-### Software Engineer · Full-Stack Developer · AI/ML Enthusiast
+### AI & Software Engineer · Full-Stack Developer
 
-I build practical, scalable software and enjoy turning ideas into polished digital experiences. I'm currently working on **Campus Forum**, exploring **AI/ML**, and looking for opportunities to collaborate on meaningful projects.
+I build practical, scalable software and enjoy turning ideas into polished digital experiences. I'm currently working on **Campus Forum** and **StreetPaws**, exploring **AI/ML**, and looking for opportunities to collaborate on meaningful projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-bilalkaxi-181717?style=for-the-badge&logo=github)](https://github.com/bilalkaxi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ibn--jamil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibn-jamil/)
@@ -21,10 +21,7 @@ I build practical, scalable software and enjoy turning ideas into polished digit
 ## About Me
 
 - 🌍 Based in **Pakistan**
-- 🔭 Building **Campus Forum**
-- 🌱 Learning and experimenting with **AI/ML**
 - 🤝 Open to collaboration, freelance opportunities, and meaningful technical challenges
-- ⚡ Fun fact: **MLSA**
 
 ## Tech Stack
 
@@ -61,12 +58,6 @@ I build practical, scalable software and enjoy turning ideas into polished digit
 - **[Essential Quranic Arabic](https://github.com/bilalkaxi)** — Responsive learning platform with structured lessons and accessible navigation. *(Next.js, Vercel)*
 - **Other projects:** Weather App, To-Do List, Quiz App, Password Generator, and Notes App.
 
-## Experience
-
-- **MERN Stack Fellow — Buildables** · Remote · Aug 2025 – Nov 2025
-- **Quranic Arabic Tutor** · Islamabad · Feb 2025 – Present
-- **Frontend Fellow — ByteWise** · Remote · Mar 2023
-
 ## Education
 
 **BS Computer Science** — SZABIST University, Islamabad  
@@ -77,8 +68,5 @@ CGPA: **3.4 / 4.0** · Feb 2025 – Present
 - **Responsive Web Design** — [freeCodeCamp](https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design)
 - **Credly:** [View my verified badge](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url)
 
-### Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Profile footer" width="100%" />
-
+### Anything else, just message me !
 </div>
