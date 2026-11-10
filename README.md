@@ -28,7 +28,9 @@ I build practical, scalable software and enjoy turning ideas into polished digit
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
 
 ### Frontend
@@ -66,7 +68,5 @@ CGPA: **3.4 / 4.0** · Feb 2025 – Present
 ## Certifications & Badges
 
 - **Responsive Web Design** — [freeCodeCamp](https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design)
+- **Google AI Professional Certificate** — [View certificate](https://www.coursera.org/account/accomplishments/specialization/R8WXOY7D83KO)
 - **Credly:** [View my verified badge](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url)
-
- Anything else, just message me !
-</div>
