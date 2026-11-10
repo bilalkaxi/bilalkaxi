@@ -65,8 +65,20 @@ I build practical, scalable software and enjoy turning ideas into polished digit
 **BS Computer Science** — SZABIST University, Islamabad  
 CGPA: **3.4 / 4.0** · Feb 2025 – Present
 
-## Certifications & Badges
+## Professional Certifications and Badges
 
-- **Responsive Web Design** — [freeCodeCamp](https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design)
-- **Google AI Professional Certificate** — [View certificate](https://www.coursera.org/account/accomplishments/specialization/R8WXOY7D83KO)
-- **Credly:** [View my verified badge](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url)
+### Google AI Professional Certificate
+
+[![Google AI Professional Certificate](assets/certificates/google-ai-professional-certificate.png)](https://www.coursera.org/account/accomplishments/specialization/R8WXOY7D83KO)
+
+[View verification](https://www.coursera.org/account/accomplishments/specialization/R8WXOY7D83KO) · [Download certificate PDF](assets/certificates/google-ai-professional-certificate.pdf)
+
+### Responsive Web Design
+
+[![Responsive Web Design Certificate](assets/certificates/responsive-web-design.png)](https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design)
+
+[View verification](https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design)
+
+### Credly Badge
+
+[View my verified badge](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url)
