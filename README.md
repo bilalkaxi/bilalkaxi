@@ -67,17 +67,24 @@ CGPA: **3.4 / 4.0** · Feb 2025 – Present
 
 ## Professional Certifications and Badges
 
-### Google AI Professional Certificate
-
-[![Google AI Professional Certificate](assets/certificates/google-ai-professional-certificate.png)](https://www.coursera.org/account/accomplishments/specialization/R8WXOY7D83KO)
-
-[View verification](https://www.coursera.org/account/accomplishments/specialization/R8WXOY7D83KO) · [Download certificate PDF](assets/certificates/google-ai-professional-certificate.pdf)
-
-### Responsive Web Design
-
-[![Responsive Web Design Certificate](assets/certificates/responsive-web-design.png)](https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design)
-
-[View verification](https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Google AI Professional Certificate</strong><br><br>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/R8WXOY7D83KO">
+        <img src="assets/certificates/google-ai-professional-certificate.png" alt="Google AI Professional Certificate" width="220">
+      </a><br><br>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/R8WXOY7D83KO">Show credential</a>
+    </td>
+    <td align="center" width="50%">
+      <strong>Responsive Web Design</strong><br><br>
+      <a href="https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design">
+        <img src="assets/certificates/responsive-web-design.png" alt="Responsive Web Design Certificate" width="220">
+      </a><br><br>
+      <a href="https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design">Show credential</a>
+    </td>
+  </tr>
+</table>
 
 ### Credly Badge
 
