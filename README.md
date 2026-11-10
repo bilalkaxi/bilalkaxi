@@ -68,5 +68,5 @@ CGPA: **3.4 / 4.0** · Feb 2025 – Present
 - **Responsive Web Design** — [freeCodeCamp](https://www.freecodecamp.org/certification/bilal-jamil/responsive-web-design)
 - **Credly:** [View my verified badge](https://www.credly.com/badges/6c60d325-5d86-46c2-b33e-998d021c92fb/public_url)
 
-### Anything else, just message me !
+ Anything else, just message me !
 </div>
